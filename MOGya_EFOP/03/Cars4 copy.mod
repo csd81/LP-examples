@@ -1,16 +1,8 @@
 /*
-
 Kezdeti penz: 200000
 Garazsok szama: 4 (ejszakara csak ott maradhatnak)
 
 Akar tobb nappal is mukodjon.
-
-            1       2       3       4       5
-Wartburg    60000   65000   61000   66000   60000
-Lada        50000   55000   63000   60000   52000
-Kispolski   30000   32000   33000   30000   27000
-Trabant     70000   65000   77000   85000   100000
-Skoda       65000   70000   75000   90000   70000
 
 Cel: het vegere minel tobb penzunk legyen.
 
